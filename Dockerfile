@@ -23,7 +23,7 @@ RUN apk add --no-cache \
       zlib-dev
 
 RUN wget -q -O /tmp/wgrib2.tgz \
-      ftp://ftp.cpc.ncep.noaa.gov/wd51we/wgrib2/wgrib2.tgz.v${version}
+      ftp://ftp.cpc.ncep.noaa.gov/wd51we/wgrib2/wgrib2.tgz.v2.0.8
 
 RUN mkdir -p /opt && \
     cd /opt/ && \
