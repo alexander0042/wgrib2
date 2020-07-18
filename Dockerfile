@@ -34,7 +34,9 @@ RUN cd /opt/grib2 && \
 
 # ======================================================================
 # The final image with alpine & just wgrib2 installed
-FROM google/cloud-sdk:289.0.0
+FROM google/cloud-sdk:289.0.0-alpine
+RUN apk --update add openjdk7-jre
+RUN gcloud components install app-engine-java kubectl
 
 RUN apk add --no-cache \
       ca-certificates \
