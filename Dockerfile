@@ -34,7 +34,7 @@ RUN cd /opt/grib2 && \
 
 # ======================================================================
 # The final image with alpine & just wgrib2 installed
-FROM alpine
+FROM google/cloud-sdk:289.0.0
 
 RUN apk add --no-cache \
       ca-certificates \
