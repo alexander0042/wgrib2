@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brightground",
+  "private_key_id": "0c985dccc1c4d62ba53eb9eda755887113fc1b03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVolovcsOzXycw\nD8pkJveR+HcCJffDI+OHmfYWYHjOdk9rtVzcbXUwQbFFMM6SqD6+yI6D+QoO/JGm\nQkXXaPP5ILTjnnbqFkv48L4bAbNfnaZRP2ekzyFuyf1RZbAey5blh0uKRHrZgQJL\nAnRK+/QPLVAHGToktFvK7Rg92+wCvePvzJAvLeo7PrGFtZlu+VFqtKfDsSAPKo5k\npyemJ+7HCgXRyfiJrdQAu2ySoStp71MmhSp/7/l8Mk1MRB9tN67nQpJmYZEc8dk/\nq8iNLt6kLsE49KNLcqVs1v9DTljXBLCq7R78YgpRb9UTmqB+OQ2k0wqEUOFpJRJ5\n+htQFE3jAgMBAAECggEAMF3U6Dgl6XbKAv4YNsuBsmkb3H8nFGWMLlejmNZXk3rC\nqWKCtx8K8JV24nDV2+s+ZWg3p9ZauiDhgtAvSsEmt0j52yy1xHKu2Zn7mFauux+Q\nl4Vw3CXO7mvJr8ODd71lGOskJZYycArer4fLN2zKiSMborfJ66RvwcYi/mJLkSTt\ngNIOslVSUyPcd3mCrT9mQ7wkq8vlUHdO373QsQyi2gdjVrr3LJnF3Lr2zPYYqexd\nYdo2LGUQl+iDTLzemaPYbd2cfRF75SjWh0NeDegrHjlS5VkyrBuWMTaWPGcRhISs\nzHFR3GQlqT1E3pNzAcUUOak9B0i9ObKeAVxHIK/73QKBgQD8jYd7+NNMrIbRcJ/3\n9irusZXCaX5lRg9MfMd3z8ypGW7JQdg46Wakcc/EubHPR6RRPmVlq7pV2y+A/jKQ\nvUyYCNGKHsE1pkkb+cH8t9t1hJOh2LJF2IcxBtUlOP02EFYgnkZnwIolp00S/mhv\nd+WigSuf1Mq+wNNEygZffx+0jQKBgQDYjNVYL0eZatPeDtJkFEbiaiBzSjqT/ken\nVrUfmYgxjsC7G0vW+khDx4hThZWw3a8DNtm+qLEfjaIhnGfRxw5qMzdflqO/jI78\nMfYXsUvnp4oOhCvDMlXKvSRBmLJlSYMwuuA3edpBjRuaylpofb66LH0J5rsWIeq3\n7BxFagTILwKBgHUSdne1hN3KLETyXHVpm8VCdRXGKV1w+K6QOTcFEO5iZ8TLzRu0\ntmwMhi+/lPltUHKI5iAXVy1tibvWGkKWPedMTzYjw5THHKTnRlGMOSNk7brc5OcT\n1LeZXzz+CgMB16sPM7vsuR1zTHs9i9QAVGbcUgipb8K1SDpfHE0wdNYRAoGBALEK\nkvHB1busBwMpAwEnQryhH16idTnBTjuVPAdVsm8x0ogmTN65SJOBcgc206cB1q++\nDE9AA29UkBUCli5/m11f+gmAUuertsqg3h2IqhH+e3RawpyXbmSONjIa8N62NzeD\n0QQJ71JgVw06GqgLBf+Xl7KcnJ//orIzqvllL/upAoGBAI+Otp6mVndjJpl5xbSI\nhyQDpHU17pd5+rTu8dP2OYJ53AU2ZAu47n/ONfzxaDxWv3Zy7uebdzHO0E2sDlJx\nkAEHPnxcgGFEHYblSgJ1xwGvui20aQFBSVQhPqa6skBDOBLW8O6VzwmLL/XWUuaR\nB6/sqHsA1i4ftisc9sx5Oohp\n-----END PRIVATE KEY-----\n",
+  "client_email": "bright2@brightground.iam.gserviceaccount.com",
+  "client_id": "116970108060549305431",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bright2%40brightground.iam.gserviceaccount.com"
+}
