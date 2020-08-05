@@ -42,7 +42,8 @@ RUN apk add --no-cache \
       ca-certificates \
       curl \
       libgfortran \
-      libgomp
+      libgomp \
+      perl
 
 COPY --from=base /opt/grib2/wgrib2/wgrib2 /usr/local/bin/wgrib2
 COPY grid_defn.pl grid_defn.pl
