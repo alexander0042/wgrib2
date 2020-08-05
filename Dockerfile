@@ -45,7 +45,7 @@ RUN apk add --no-cache \
       libgomp
 
 COPY --from=base /opt/grib2/wgrib2/wgrib2 /usr/local/bin/wgrib2
-COPY brightground-0c985dccc1c4.json /brightground-0c985dccc1c4.json
+COPY grid_defn.pl grid_defn.pl
 # where foo.txt is the relative path on host
 # and /data/foo.txt is the absolute path in the image'
 
